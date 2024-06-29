@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wkrose7
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI, image creation
 - 🌱 I’m currently learning C++, C#, Javascript, and Python. While expanding my understanding of HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 I can be reached at wkrose7@gmail.com
